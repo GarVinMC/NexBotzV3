@@ -16,12 +16,12 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('NexEp', {
+say('GarVinCG', {
   font: 'chrome',
   align: 'center',
   colors: ['red', 'magenta']
 })
-say(` NexBotz By @NexEp`, { 
+say(` AzurFlane Bot By GarVinCG`, { 
   font: 'console',
   align: 'center',
   colors: ['red', 'magenta']
